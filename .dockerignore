@@ -1,0 +1,7 @@
+**/__pycache__/
+Makefile
+alembic
+alembic.ini
+docker-compose.yml
+tests
+README.md
